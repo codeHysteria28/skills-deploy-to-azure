@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: codeHysteria29-azure-ttt
-  AZURE_WEBAPP_NAME: codeHysteria29-ttt-app
+  DOCKER_IMAGE_NAME: codeHysteria28-azure-ttt
+  AZURE_WEBAPP_NAME: codeHysteria28-ttt-app
   ###############################################
 
 jobs:
